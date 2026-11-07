@@ -1,4 +1,6 @@
-# WallScape
+<p align="center">
+  <img src="assets/banner.png" alt="WallScape - a YASB-style wallpaper picker for Windows" width="100%" />
+</p>
 
 A small, portable Windows wallpaper switcher with an animated change transition.
 It recreates the wallpaper picker from YASB without needing YASB, a bar, Python,
