@@ -1,0 +1,10 @@
+# build output
+WallScape.exe
+WallScape.exe.config
+
+# runtime files
+cache/
+WallScape.ini
+
+# local testing artifacts
+_diag/
